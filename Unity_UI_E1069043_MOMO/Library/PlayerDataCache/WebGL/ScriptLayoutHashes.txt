@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/user/Documents/GitHub/TUMT_Unity_AI2D_E1080330_Beliel/Web
+C:/Users/user/Documents/GitHub/TUMT_Unity_AI2D_E1069043_MOMO/WEB
 SceneListBegin?
 Assets/Scenes/標題畫面.unity
 Assets/Scenes/遊戲場景.unity
